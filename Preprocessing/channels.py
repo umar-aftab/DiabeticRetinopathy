@@ -1,4 +1,3 @@
-import os
 import cv2
 from skimage import io
 
